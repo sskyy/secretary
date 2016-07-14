@@ -1,0 +1,22 @@
+{
+  "name": "secretary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskyy/secretary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sskyy/secretary/issues"
+  },
+  "homepage": "https://github.com/sskyy/secretary#readme",
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
+}
